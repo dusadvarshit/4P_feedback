@@ -1,5 +1,5 @@
-numpy==1.18.1
-pandas==1.0.3
-praat-parselmouth==0.3.3
-scipy==1.4.1
-pydub==0.24.1
+numpy
+pandas
+praat-parselmouth
+scipy
+pydub
