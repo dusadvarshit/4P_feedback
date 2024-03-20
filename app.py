@@ -5,6 +5,11 @@ import random
 import string
 import os
 
+try:
+    os.mkdir("tmp")
+except:
+    pass
+
 def file_creator(audio_file):
     characters = string.ascii_letters + string.digits + string.punctuation
     
