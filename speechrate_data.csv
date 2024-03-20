@@ -1,0 +1,2 @@
+,soundname,nsyll,npause,dur(s),phonationtime(s),speechrate(nsyll / dur),articulation rate(nsyll / phonationtime),ASD(speakingtime / nsyll)
+0,/home/ubuntu/emotional_sounds/wav/Will's_Father_leaves.wav,146,3,30.0,30.0,4.866666666666666,5.355046948356807,0.18673972602739727

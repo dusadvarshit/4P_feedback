@@ -1,0 +1,6 @@
+TO STOP AND REMOVE ALL DOCKER CONTAINERS FROM THE SYSTEM
+sudo docker stop $(sudo docker ps -a -q)
+sudo docker rm $(sudo docker ps -a -q)
+
+PUSHING DOCKER IMAGES TO SERVER
+sudo docker push varshitdusad/4p_feedback:0.0.1
